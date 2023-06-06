@@ -40,7 +40,7 @@ const Home = () => {
             <h1>10KExpert</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Drop a link of a 10K from the SECs EDGAR filing systemand fetch the main risks of the company!</h2>
+            <h2>Drop a link of a 10K from the SECs EDGAR filing system and fetch some details on the company!</h2>
           </div>
         </div>
         <div className="prompt-container">
